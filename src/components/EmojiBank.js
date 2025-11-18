@@ -1,15 +1,43 @@
 const EmojiBank = {
- 
-  level0: [{ emoji: "❤️👰🏃", answers: ["Dilwale Dulhania Le Jayenge"] }, // Love + bride + running
-  { emoji: "👦🚲🏫", answers: ["3 Idiots"] },                    // Boy + bike + school
-  { emoji: "🕴️🕶️💰", answers: ["Don"] },                        // Suit + sunglasses + money
-  { emoji: "👸💔🏰", answers: ["Jodhaa Akbar"] },                // Princess + heartbreak + palace
-  { emoji: "🧊", answers: ["Barfi"] },                          // Ice cube → Barfi!
-  { emoji: "🏏🇮🇳🔥", answers: ["Lagaan"] },                     // Cricket + India + fire
-  { emoji: "🛳️💍💔", answers: ["Titanic"] },                    // Ship + ring + heartbreak
-  { emoji: "⭐🌍", answers: ["Taare Zameen Par"] },               // Star + earth
-  { emoji: "👮‍♂️💣🚂", answers: ["Baby"] },                      // Policeman + bomb + train
-  { emoji: "🦁👑🌍", answers: ["The Lion King"] },]
-}
+  level0: [
+    { emoji: "❤️👰🏃", answers: ["Dilwale Dulhania Le Jayenge"] },
+    { emoji: "👦🚲🏫", answers: ["3 Idiots"] },
+    { emoji: "🕴️🕶️💰", answers: ["Don"] },
+    { emoji: "👸💔🏰", answers: ["Jodhaa Akbar"] },
+    { emoji: "🧊", answers: ["Barfi"] },
+    { emoji: "🏏🇮🇳🔥", answers: ["Lagaan"] },
+    { emoji: "🛳️💍💔", answers: ["Titanic"] },
+    { emoji: "⭐🌍", answers: ["Taare Zameen Par"] },
+    { emoji: "👮‍♂️💣🚂", answers: ["Baby"] },
+    { emoji: "🦁👑🌍", answers: ["The Lion King"] },
 
-export default EmojiBank
+    { emoji: "😡👨‍⚖️🔨", answers: ["Pink"] },
+    { emoji: "👩‍❤️‍👨🎶🎤", answers: ["Aashiqui 2"] },
+    { emoji: "🕷️🧑‍🦱🕸️", answers: ["Spider-Man"] },
+    { emoji: "🎤⭐🇮🇳", answers: ["Rockstar"] },
+    { emoji: "👨‍🍳🔥🍽️", answers: ["Chef"] },
+    { emoji: "🧛‍♂️🌙🩸", answers: ["Twilight"] },
+    { emoji: "👨‍🚀🌕🚀", answers: ["Interstellar"] },
+    { emoji: "🤖👦💙", answers: ["Robot"] },
+    { emoji: "🏹🔥👧", answers: ["The Hunger Games"] },
+    { emoji: "🧞‍♂️💡👦", answers: ["Aladdin"] },
+
+    { emoji: "👮‍♂️💼🔫", answers: ["Loot"] },
+    { emoji: "💘👫🎒", answers: ["Kabaddi"] },
+    { emoji: "🎶👦👧💔", answers: ["Prem Geet"] },
+    { emoji: "🏔️🧗‍♂️🇳🇵", answers: ["Everest"] },
+    { emoji: "🔥👨‍👩‍👦", answers: ["Jhola"] },
+    { emoji: "🏥👩‍⚕️💔", answers: ["Classic"] },
+    { emoji: "🎤👨‍🎤🇳🇵", answers: ["Kusume Rumal"] },
+    { emoji: "🚌👬😂", answers: ["Chhakka Panja"] },
+    { emoji: "👦🗡️🕊️", answers: ["Bir Bikram"] },
+    { emoji: "👩‍❤️‍👨🌧️", answers: ["A Mero Hajur"] },
+    { emoji: "🐅👨‍🌾🪓", answers: ["Kalo Pothi"] },
+    { emoji: "👮‍♂️🚔💥", answers: ["Xira"] },
+    { emoji: "🙏👨‍👩‍👦🇳🇵", answers: ["Bulbul"] },
+    { emoji: "💃🎵❤️", answers: ["Nai Nabhannu La"] },
+    { emoji: "🕊️👩‍👧💔", answers: ["Seto Sur"] },
+  ],
+};
+
+export default EmojiBank;
